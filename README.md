@@ -11,7 +11,11 @@
 - Once you have a folder for the site, open VSCode and continue working with its Terminal pane
 
 
+### Plugins:
+
+- [Image](https://www.11ty.dev/docs/plugins/image/)
+
 ### Important commands:
 
 - Buid site: `npx @11ty/eleventy`
-- Start server with hot reload: `npx @11ty/eleventy --serve` (stop with **Ctrl-C**)
+- Build, then start server with hot reload: `npx @11ty/eleventy --serve` (stop with **Ctrl-C**)
