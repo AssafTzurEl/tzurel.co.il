@@ -1,5 +1,7 @@
 # Documentation
 
+Welcome to my website's source code! This site is built using Eleventy - a static site generator (SSG) that allows developers to create fast and efficent websites. The site itself is hosted at http://www.tzurel.co.il - check it out!
+
 ## Eleventy how-to
 
 [Eleventy – getting started](https://www.11ty.dev/docs/getting-started/)
@@ -17,5 +19,5 @@
 
 ### Important commands:
 
-- Buid site: `npx @11ty/eleventy`
+- Build site: `npx @11ty/eleventy`
 - Build, then start server with hot reload: `npx @11ty/eleventy --serve` (stop with **Ctrl-C**)
