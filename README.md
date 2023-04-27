@@ -9,6 +9,7 @@ Welcome to my website's source code! This site is built using Eleventy - a stati
 
 ### Setup notes:
 
+- If you are using VSCode, you might want to install the [Nunjucks](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks) extension
 - During node.js installation, if you already have Python and VS installed, don't check the Chocolatey box
 - Once you have a folder for the site, open VSCode and continue working with its Terminal pane
 
