@@ -8,6 +8,29 @@ title: Lectures
 ## General audience lectures:
 
 <details>
+    <summary>From Chaos to calm: A guide to effective time management</summary>
+
+    <div>
+        <p>
+            Do you ever feel like there are not enough hours in the day? Are you struggling to manage your workload and
+            meet deadlines? The good news is that you're not alone: We all do. Time is a limited resource, but modern
+            life demand more and more of it.
+        </p>
+        <p>
+            We'll start by figuring out what takes up all of our time and makes us so frustrated. Then, we'll discover
+            how we can maximize productivity and efficiency by learning practical strategies for effective time
+            management. From setting goals and prioritizing tasks to minimizing distractions and leveraging technology,
+            this lecture will provide you with actionable insights to help you take control of your time and achieve
+            your goals.
+        </p>
+        <p>
+            And, as the saying goes: "If not now, when"? We'll start implementing those insights right away, each one
+            with his or her own life and personal tasks. Mental relief assured.
+        </p>
+    </div>
+</details>
+
+<details>
     <summary>Fixing the world (one robot at a time)</summary>
 
     <div>
@@ -25,6 +48,28 @@ title: Lectures
         <p>
             In this lecture, we meet Dean Kamen, talk about his dream and how he decided to accomplish it,
             how it works, and why you (and your kids) want be part of it.
+        </p>
+    </div>
+</details>
+
+<details>
+    <summary>Digital analogy</summary>
+
+    <div>
+        <p>
+            - "Computers? I don't get along with them"<br/>
+            - "Technology is cold and heartless"<br/>
+            - "I'm technophobic"<br/>
+        </p>
+        <p>
+             This lecture challenge the common perception that technology is a purely scientific endeavor. It explores
+             the fascinating and often surprising ways in which digital technology is influenced by the humanities.
+             Together, we will see how works of literature, folklore, and art have had a profound impact on the
+             development of digital technologies.
+        </p>
+        <p>
+            We hope the lecture will inspire you to think creatively about the intersection of technology and the
+            humanities, and to improve your relationship with future innovation.
         </p>
     </div>
 </details>
@@ -101,17 +146,15 @@ title: Lectures
 <!--
 TODO:
 
-For general audience:
-- Time management
-- Analog-digital
-
 Introduction to hi-tech:
 - Mapping the hi-tech industry
 - Getting your first job
 - The hi-tech terminology
 - Programming languages
 
-Automated testing
+Development lectures:
+- Automated testing
+- Introduction to Git
 
 Microservices:
 - Introduction to microservices
@@ -120,10 +163,20 @@ Architecture and design:
 - An agile approach to Agile
 
 
-ניהול זמן
-זמן הוא משאב מוגבל, אבל החיים שלנו דורשים יותר ויותר ממנו. בהרצאה נלמד לאן הזמן שלנו בורח, איך מנהלים אותו נכון ואיך נוכל לייעל את ההתנהלות שלנו ואפילו ליהנות מהתהליך. וכמו שאומרים, "אם לא עכשיו אז מתי?" ולכן, נתחיל מייד ליישם – כל אחד על החיים והמשימות האישיות שלו. הקלה מובטחת.
+Summary structure:
 
-הרביעית:
+Title
+Instructions: The title should be expressive and catchy - some kind of an initial teaser.
+
+Abstract
+Instructions: The abstract is 1-3 paragraph long session description (some of you liked the analogy of being the presentation "elevator pitch"), which should answer the following: 
+0.	What is the problem/challenge/issue you're addressing?
+1.	What is the presented solution/concept?
+2.	What content will you present?
+3.	Who is the target audience? (if relevant)
+4.	What's in it for me?
+
+
 גמישות באג'ייל
 אג'ייל היא מתודולוגיה שדוגלת בגמישות – אבל הפרקטיקה שלה מכתיבה התנהלות מאוד ספציפית. האם מותר לחרוג ממנה ומתי? בהרצאה נפרק את אג'ייל לעקרונות, נחקור את משמעותם  ונראה איך אפשר להשתמש בכל אחד מהם בפרויקטים לא אג'יליים או בחברה לא אג'ילית.
 
