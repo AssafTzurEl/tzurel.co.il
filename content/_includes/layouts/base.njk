@@ -44,18 +44,6 @@
                     <main class="min-w-0">
                         {{ content | safe }}
                     </main>
-                    <div id="search-container" class="hidden truncate">
-                        <div class="postlist pb-8 mt-8 font-light dark:font-extralight pt-4 min-w-0">
-                            <div id="search-mobile-title" class="hidden leading-12 align-middle text-gray-500 dark:text-gray-400">
-                            </div>
-                            <ul id="search-results" class="mt-3">
-                            </ul>
-                            <span id="search-no-results" class="mt-3 hidden">
-                                No data found for the given query.
-                            </span>
-                            <img src="/assets/images/algolia.png" alt="Search powered by Algolia" />
-                        </div>
-                    </div>
                     <aside class="hidden xl:block w-72 float-right">
                         {% include "layouts/recents.njk" %}
                         {% include "layouts/toc.njk" %}
