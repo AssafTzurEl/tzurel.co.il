@@ -1,0 +1,10 @@
+{% macro displayContent(items) %}
+  {% for item in items %}
+      <details>
+        <summary>{{ item.data.title }}</summary>
+        <div>
+          {{ item.templateContent | safe }}
+        </div>
+    </details>
+  {% endfor %}
+{% endmacro %}
