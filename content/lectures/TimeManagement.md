@@ -1,5 +1,6 @@
 ---
 tags: lecture_general
+permalink: false
 title: "From Chaos to calm: A guide to effective time management"
 ---
 

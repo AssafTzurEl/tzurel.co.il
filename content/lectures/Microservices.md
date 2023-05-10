@@ -1,5 +1,6 @@
 ---
 tags: lecture_programming
+permalink: false
 title: To Microservice, or not to Microservice
 ---
 

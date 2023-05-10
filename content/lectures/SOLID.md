@@ -1,5 +1,6 @@
 ---
 tags: lecture_programming
+permalink: false
 title: SOLID/fragile
 ---
 

@@ -1,5 +1,6 @@
 ---
 tags: lecture_general
+permalink: false
 title: Digital analogy
 ---
 
