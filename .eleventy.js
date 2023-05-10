@@ -22,6 +22,8 @@ module.exports = function(eleventyConfig) {
   
     // Copy `assets/` to `_site/assets`
     eleventyConfig.addPassthroughCopy("assets");
+    // Same for `.htaccess`
+    eleventyConfig.addPassthroughCopy("content/.htaccess");
 
     // Add watch target for JS files (needed for JS bundling in dev mode)
     eleventyConfig.addWatchTarget("./assets/js/");
