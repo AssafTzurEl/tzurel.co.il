@@ -1,5 +1,5 @@
 ---
-tags: lecture_programming
+tags: lecture_architecture
 permalink: false
 title: To Microservice, or not to Microservice
 ---
