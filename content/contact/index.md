@@ -7,15 +7,16 @@ Let's keep in touch! You can contact me on [WhatsApp](https://wa.me/972543330085
 
 <form accept-charset="UTF-8" action="https://getform.io/f/55b4f464-339f-4a71-a8ca-5992d4998d9e" method="POST" enctype="multipart/form-data"  target="_blank" id="contactform">
     <div>
-        <input type="text" name="name" placeholder="Your name" required />
+        Name: <input type="text" name="name" placeholder="Your name" required />
     </div>
     <div>
-        <input type="email" name="email" placeholder="Your email address" required />
+        Email: <input type="email" name="email" placeholder="Your email address" required />
     </div>
     <div>
-        <input type="text" name="phone" placeholder="Your phone number" required />
+        Phone: <input type="text" name="phone" placeholder="Your phone number" required />
     </div>
     <div>
+        Message:<br/>
         <textarea type="text" name="message" placeholder="Enter your message here" required></textarea>
     </div>
     <!-- add hidden Honeypot input to prevent spams -->
