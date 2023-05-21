@@ -1,0 +1,46 @@
+---
+layout: layouts/page.njk
+title: Courses
+---
+
+<p>
+  <strong>Note:</strong> Courses can be split, merged, and tailor-made. Challenge me!
+</p>
+
+{% import "macros/collapsible.njk" as collapsible %}
+
+{{ collapsible.displayContent(collections.course_career) }}
+
+ 
+<!--
+TODO:
+
+Programming:
+- Lanaguages. For each one: Basic, advanced topics, what's new, switching from <another lang>
+- Design Patterns
+- Architecture
+- Automated back-end testing
+
+Mentoring - think how to get that into the list (or should I create a separate page?)
+
+
+Ask ChatGPT for more ideas!
+
+Summary structure:
+
+Title
+Instructions: The title should be expressive and catchy - some kind of an initial teaser.
+
+Abstract
+Instructions: The abstract is 1-3 paragraph long session description (some of you liked the analogy of being the presentation "elevator pitch"), which should answer the following: 
+0.	What is the problem/challenge/issue you're addressing?
+1.	What is the presented solution/concept?
+2.	What content will you present?
+3.	Who is the target audience? (if relevant)
+4.	What's in it for me?
+
+-->
+
+<p>
+  Can't find what you're looking for? <a href="/contact">Contact</a> me and I'll create a course especially for you!
+</p>
