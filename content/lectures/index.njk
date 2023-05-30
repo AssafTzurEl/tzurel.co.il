@@ -3,13 +3,13 @@ layout: layouts/page.njk
 title: Lectures
 ---
 
+{% import "macros/collapsible.njk" as collapsible %}
+
 <p>
   <strong>Note:</strong> "Introduction to..." lectures can be expanded into full courses.
 </p>
 
 <h2>General audience lectures:</h2>
-
-{% import "macros/collapsible.njk" as collapsible %}
 
 {{ collapsible.displayContent(collections.lecture_general) }}
 
@@ -25,30 +25,16 @@ title: Lectures
 <!--
 TODO:
 
-Introduction to hi-tech:
-- Mapping the hi-tech industry
-- Getting your first job
-- The hi-tech terminology
-- Programming languages
-
 סדנאות מהרשימה שאני יכול להעביר:
 •	העצמה אישית
 •	ליווי לבניית קריירה
 
 נושאים נוספים:
-•	ניהול זמן
 •	ליווי קריירה (מיקוד):
 o	למחפשי עבודה
 o	למתחילים עבודה חדשה
 o	לעובדים שרוצים להתקדם/להתמקצע
 •	טעימות שפות תכנות: מיועד למי שמכיר כבר שפה אחת לפחות ומעוניין להכיר עוד כמה: Python, C#, Java, JS, (C++?) (נדלג על C ואסמבלי ברשותך)
-•	היכרות עם עולם ההייטק:
-o	תחומי התמקצעות (צד שרת/לקוח, Full Stack, ML, Mobile וכו'), שפות תכנות, פלטפורמות
-o	שיטות עבודה (Agile, TDD)
-o	כלים (מסלאק ו-Teams ועד לג'ירה ו-GitHub)
-o	Lifecycle ובעלי תפקידים
-o	מונחים בהייטק: מפיבלוש לפרודקשן ועד לתןביס ו-#צרות_בהייטק
-o	מגזרים בהייטק הישראלי (סטרטאפים, חברות ביטחוניות, חברות בינלאומיות ועוד)
 
 
 
