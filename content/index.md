@@ -1,5 +1,4 @@
 ---
-eleventyExcludeFromCollections: true
 layout: layouts/page.njk
 title: Welcome!
 ---
