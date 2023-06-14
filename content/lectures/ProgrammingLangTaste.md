@@ -1,7 +1,7 @@
 ---
 tags: lecture_programming
 permalink: false
-title: "Exploring New Horizons: A Taste of Programming in a Different Language"
+title: "Exploring new horizons: A taste of programming in a different language"
 ---
 
 In the ever-evolving world of software development, it's crucial for developers to expand their horizons and explore different programming languages. Join us in this captivating lecture as we embark on a journey of discovery, designed specifically for developers who are eager to "taste" a programming language outside of their comfort zone.
