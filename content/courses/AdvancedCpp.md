@@ -4,7 +4,7 @@ permalink: false
 title: Advanced C++
 ---
 
-The Advanced C++ course offers a comprehensive and in-depth exploration of modern C++ programming techniques and the underlying fundamentals that power this versatile language. Designed for experienced developers looking to elevate their C++ skills, this course covers a range of advanced topics to enable participants to write efficient, maintainable, and robust C++ code.
+The Advanced C++ course offers a comprehensive and in-depth exploration of modern C++ programming techniques and the underlying fundamentals that power this versatile language. Designed for experienced developers looking to elevate their C++ skills, this course covers a range of advanced topics to enable participants to write efficient, maintainable, and robust C++ code. The course can be customized to include one or more of the follwoing topics, allowing organizers to focus on areas that align with their specific interests and learning goals.
 
 The course begins with an overview of Modern C++ (C++11 onwards), highlighting key language features and improvements that have been introduced. Participants will delve into the latest standards and understand how to leverage the power of modern C++ to write expressive and concise code.
 
