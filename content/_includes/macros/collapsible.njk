@@ -1,6 +1,6 @@
 {% macro displayContent(items) %}
   {% for item in items %}
-      <details>
+      <details id="{{ item.page.fileSlug }}">
         <summary>{{ item.data.title }}</summary>
         <div>
           {{ item.templateContent | safe }}
