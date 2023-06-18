@@ -1,10 +1,12 @@
 {% macro displayContent(items) %}
   {% for item in items %}
-      <details id="{{ item.page.fileSlug }}">
-        <summary>{{ item.data.title }}</summary>
-        <div>
-          {{ item.templateContent | safe }}
-        </div>
+    <details id="{{ item.page.fileSlug }}" class="mt-2">
+      <summary>
+        <h3 class="inline pl-1">{{ item.data.title }}</h3>
+      </summary>
+      <div class="ml-4">
+        {{ item.templateContent | safe }}
+      </div>
     </details>
   {% endfor %}
 {% endmacro %}
