@@ -1,7 +1,7 @@
 ---
 tags: course_programming
 permalink: false
-title: "Exploring AI: Concepts, applications, and creation (workshop)"
+title: "Exploring AI workshop: Concepts, applications, and creation"
 ---
 
 

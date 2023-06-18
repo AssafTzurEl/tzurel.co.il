@@ -10,13 +10,19 @@ title: Courses
 {% import "macros/collapsible.njk" as collapsible %}
 
 <h2>Career courses:</h2>
-
 {{ collapsible.displayContent(collections.course_career) }}
 
 <h2>Programming courses:</h2>
-
 {{ collapsible.displayContent(collections.course_programming) }}
 
+<h3>C#</h3>
+{{ collapsible.displayContent(collections.course_programming_csharp) }}
+
+<h3>Java</h3>
+{{ collapsible.displayContent(collections.course_programming_java) }}
+
+<h3>C++</h3>
+{{ collapsible.displayContent(collections.course_programming_cpp) }}
  
 <!--
 TODO:

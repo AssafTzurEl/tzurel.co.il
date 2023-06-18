@@ -1,5 +1,5 @@
 ---
-tags: course_programming
+tags: course_programming_java
 permalink: false
 title: "Java fundamentals: A comprehensive introduction to java programming"
 ---
