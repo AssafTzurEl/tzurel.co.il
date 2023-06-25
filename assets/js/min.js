@@ -224,12 +224,6 @@ document.addEventListener("DOMContentLoaded", function () {
                     makeActive(currentHeading);
                 }
 
-                if (scrollTop >= 45) {
-                    barEl.classList.add("hide");
-                } else {
-                    barEl.classList.remove("hide");
-                }
-
                 if (scrollEl) {
                     if (scrollTop > window.innerHeight) {
                         scrollEl.style.display = "flex";

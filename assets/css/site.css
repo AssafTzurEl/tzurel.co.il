@@ -43,6 +43,14 @@ div.menu ul > li:last-child::after {
     }
 }
 
+@media screen and (max-width: 1280px) {
+    div.menu ul > li.active:nth-child(2) ~ li:last-child::after,
+    div.menu ul > li.navitem:nth-child(2):hover ~ li:last-child::after {
+        top: -12rem;
+        visibility: visible;
+    }
+}
+
 div.menu ul > li.active:nth-child(1) ~ li:last-child::after,
 div.menu ul > li.navitem:nth-child(1):hover ~ li:last-child::after {
     top: -12rem;
@@ -66,6 +74,28 @@ div.menu ul > li.navitem:nth-child(4):last-child:hover::after {
 
 div.menu > * {
     transition: transform 0.4s ease;
+}
+
+@media screen and (max-width: 1280px) {
+    div.menu ul > li.active:nth-child(1) ~ li:last-child::after,
+    div.menu ul > li.navitem:nth-child(1):hover ~ li:last-child::after {
+        top: -15rem;
+    }
+
+    div.menu ul > li.active:nth-child(2) ~ li:last-child::after,
+    div.menu ul > li.navitem:nth-child(2):hover ~ li:last-child::after {
+        top: -12rem;
+    }
+
+    div.menu ul > li.active:nth-child(3) ~ li:last-child::after,
+    div.menu ul > li.navitem:nth-child(3):hover ~ li:last-child::after {
+        top: -9rem;
+    }
+
+    div.menu ul > li.active:nth-child(4):last-child::after,
+    div.menu ul > li.navitem:nth-child(4):last-child:hover::after {
+        top: -6rem;
+    }
 }
 
 /* SVGs */
@@ -365,10 +395,6 @@ html[class="dark"] ul.pagination div.active {
 
 :-ms-input-placeholder {
     @apply text-gray-800;
-}
-
-#top-bar.hide {
-    @apply transform -translate-y-12;
 }
 
 .additions a {
