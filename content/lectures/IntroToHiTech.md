@@ -1,7 +1,7 @@
 ---
 tags: lecture_general
 permalink: false
-title: Introduction to the hi-tech industry (series)
+title: Introduction to the hi-tech industry (lecture series)
 ---
 
 This series of lectures explores the dynamic and ever-changing landscape of the technology sector. They can be delivered as standalone presentations, integrated into a full course, or seamlessly woven to create an encompassing overview.
