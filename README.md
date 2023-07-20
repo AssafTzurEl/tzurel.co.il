@@ -12,6 +12,7 @@ Welcome to my website's source code! This site is built using Eleventy - a stati
 - If you are using VSCode, you might want to install the [Nunjucks](https://marketplace.visualstudio.com/items?itemName=ronnidc.nunjucks) extension
 - During node.js installation, if you already have Python and VS installed, don't check the Chocolatey box
 - Once you have a folder for the site, open VSCode and continue working with its Terminal pane
+- `npm install`
 
 
 ### Plugins:
@@ -20,5 +21,6 @@ Welcome to my website's source code! This site is built using Eleventy - a stati
 
 ### Important commands:
 
-- Build site: `npx @11ty/eleventy`
-- Build, then start server with hot reload: `npx @11ty/eleventy --serve` (stop with **Ctrl-C**)
+- Build site: `npm run build` (or `npx @11ty/eleventy`)
+- Build, then start server with hot reload:  `npm run start` (or `npx @11ty/eleventy --serve`)
+    - Stop with **Ctrl-C**

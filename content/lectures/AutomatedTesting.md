@@ -8,4 +8,4 @@ Automated testing has transformed software development by enabling developers to
 
 ### Target audience:
 
-This lecture is two lectures: One tailored for software developers and the other specifically designed for testers. Both lectures are suitable for professionals ranging from junior to senior levels.
+This lecture can be delivered as two lectures: One tailored for software developers and the other specifically designed for testers. Both lectures are suitable for professionals ranging from junior to senior levels.
