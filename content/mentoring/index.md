@@ -28,4 +28,10 @@ In addition to mentoring, I offer specialized career consulting services. Whethe
 ## Let's Start This Transformative Journey Together
 If you are an individual seeking comprehensive mentoring and career consulting services or a company looking to empower your employees with a holistic approach to professional development, my services are tailored to meet your needs. Together, we will navigate the intricate world of the hi-tech industry, ensuring that you achieve your professional aspirations and reach new heights.
 
-Don't miss this opportunity to embark on a transformative journey! [Contact me](mailto:{{ siteconfig.email }}?subject=Mentoring) today to discuss your specific needs and how my mentoring and career consulting services can benefit you. Let's unlock your full potential and create a rewarding and impactful career in the hi-tech industry.
+Don't miss this opportunity to embark on a transformative journey! [Contact me](mailto:{{ siteconfig.email }}?subject=Mentoring) today to discuss your specific needs and how my mentoring and career consulting services can benefit you. Let's unlock your full potential and create a rewarding and impactful career in the hi-tech industry. Or click the "Schedule a meeting" button.
+
+<!-- Calendly badge widget begin -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/assaft/30min', text: 'Schedule a meeting', color: '#291f65', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Calendly badge widget end -->
