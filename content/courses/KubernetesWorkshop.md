@@ -1,12 +1,19 @@
 ---
-tags: course_programming_k8s
+tags: course_programming
 permalink: false
 title: Kubernetes workshop
 ---
 
 ### Abstract:
 
-This 6-hour hands-on workshop is designed to provide participants with an introduction to Kubernetes, an open-source container orchestration platform. Through a combination of theoretical concepts and practical hands-on exercises, attendees will gain the skills needed to deploy, manage, and scale containerized applications effectively using Kubernetes.
+Kubernetes, the industry-standard container orchestration platform, has revolutionized the way modern applications are deployed and managed. In this immersive workshop, participants will explore Kubernetes fundamentals, covering core concepts such as pods, services, deployments, and persistent storage. Through hands-on exercises, attendees will gain practical experience in deploying, scaling, and managing containerized applications in Kubernetes clusters. By mastering these essential concepts, participants will be empowered to optimize development workflows and drive innovation in their organizations, making this workshop essential for developers, architects, testers, DevOps, and anyone seeking to harness the power of Kubernetes for seamless application deployment.
+
+### Key Learning Objectives:
+
+- Gain a solid understanding of Kubernetes architecture, components, and key features
+- Learn how to deploy, scale, and update containerized applications using Kubernetes primitives
+- Acquire practical skills through hands-on exercises and real-world scenarios
+- Discover best practices for optimizing application deployment and management workflows with Kubernetes
 
 ### Target audience:
 - Developers
