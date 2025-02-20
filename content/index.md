@@ -1,20 +1,41 @@
 ---
 layout: layouts/page.njk
-title: Welcome!
+title: Transforming Software Organizations Through Technology and Leadership
 ---
 
-Hi! My name is Assaf Tzur-El. I am a software architect, developer, lecturer, and mentor (not necessarily in that order). I live in Israel and work (mostly remotely) all over the world. **Simple. Technology** is my official brand name, but I also provide my services via other companies.
+Hi! I'm Assaf Tzur-El, a veteran software development consultant with 30 years of industry experience. I help organizations and individuals who want to change the world through technology by creating order from chaos, optimizing development processes, and enabling teams to reach their full potential.
 
-I speacialize in taking projects and products to the next level: High-risk projects, technology stack updates, bleeding edge tech, or just computerizing a manual process into a single button-click. But my greatest passion (and the reason I created this site) is teaching and mentoring.
+## Expert Software Consulting and Technical Leadership
 
-TL;DR version of my career: 15 years in the hi-tech industry, from a developer to a team leader, architect, project manager, and back. Then, in 2009, I became a freelance consultant, sharing my experience in software development while expanding my skill set to include teaching and mentoring. I have been doing that ever since.
+As a software architect, technical leader, and mentor, I specialize in transforming high-risk projects and challenging technological initiatives into manageable, successful outcomes. Whether you're scaling your startup, modernizing your tech stack, or seeking to optimize your development processes, I bring battle-tested expertise from three decades in the industry.
 
-## My "special sauce"
+### What Sets Me Apart
 
-I'll let you in on my secret: Before I commit to teaching anything, I make sure I know at least 110% of the material. I don't just teach from the book, I teach from experience. I have been there, done that. I have made the mistakes, and I have learned from them. Then I build the course or the lecture, imagining a younger version of myself, and what I would have wanted to know back then.
+Before teaching or consulting on any technology or methodology, I ensure I understand it at a fundamental level - not just the theory, but the practical applications and potential pitfalls. My approach combines deep technical knowledge with real-world experience, including:
 
-In my courses, lectures, and mentoring, I give a lot of real-life examples, mostly from my own experience (including my own mistakes). Then I give that experience to my students in the form of well-crafted exercises. Theory is nothing without practice, and I strongly believe that the best way to learn is by doing - and then getting immediate feedback.
+- Software architecture design and implementation
+- Development process optimization and friction reduction
+- Technical leadership and team mentoring
+- Organizational transformation and scaling
+- High-risk project recovery and management
 
-## What's next?
+## Comprehensive Software Consulting Services
 
-You can find my full résumé on my [LinkedIn profile](https://www.linkedin.com/in/assaftzurel/). Descriptions of the lectures and courses I have given so far can be found in the [Lectures](/lectures) and [Courses](/courses) pages. If you want a personal tech trainer, take a look at the [Guidance and Mentoring](/mentoring) page.
+### Process Optimization and Technical Leadership
+I help development organizations identify and eliminate friction points, implement metrics-driven improvements through OKRs and KPIs, and establish best practices that enhance both code quality and developer growth.
+
+### Architecture and Technology Solutions
+From designing scalable architectures to modernizing legacy systems, I ensure your technical decisions align with long-term organizational goals and business needs.
+
+### Training and Mentorship
+My greatest passion is sharing knowledge. I offer personalized training and mentorship programs, combining theoretical foundations with practical, hands-on exercises based on real-world scenarios.
+
+## Experience That Makes a Difference
+
+Having served across the technical spectrum – from hands-on developer to CTO – I've helped organizations of all sizes, from startups to global enterprises. With effective collaboration tools and methodologies, I work successfully with clients both locally in Israel and worldwide, offering flexible engagement models: on-site, remote, or hybrid - adapting to each organization's specific needs and preferences.
+
+When I'm not optimizing code or processes, I contribute to the tech community by judging robotics competitions, speaking at international conferences and meetups, mentoring the next generation of developers, and sharing insights through technical courses and workshops.
+
+## Ready to Transform Your Software Organization?
+
+Let's discuss how I can help optimize your development processes and enhance your team's capabilities. Browse through my [Consulting](/consulting), [Courses](/courses), [Lectures](/lectures), and [Mentoring](/mentoring) offerings; [view My LinkedIn profile](https://www.linkedin.com/in/assaftzurel/); then [contact me](mailto:{{ siteconfig.email }}) or click the "Schedule a meeting" button to get started.

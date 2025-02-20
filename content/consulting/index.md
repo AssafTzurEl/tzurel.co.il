@@ -44,9 +44,3 @@ Conduct thorough analysis of your development processes, identify bottlenecks, a
 ## Ready to Transform Your Software Organization?
 
 Let's discuss how I can help optimize your development processes and enhance your team's capabilities. [Contact me](mailto:{{ siteconfig.email }}?subject=Consulting) today, or click the "Schedule a meeting" button.
-
-<!-- Calendly badge widget begin -->
-<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
-<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/assaft/30min', text: 'Schedule a meeting', color: '#291f65', textColor: '#ffffff', branding: undefined }); }</script>
-<!-- Calendly badge widget end -->
