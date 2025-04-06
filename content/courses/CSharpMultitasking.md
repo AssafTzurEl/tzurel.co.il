@@ -26,7 +26,7 @@ Course Highlights:
    - Parallel LINQ (PLINQ) for querying data in parallel
    - Understanding `ThreadPool` and its role in managing threads
    - Asynchronous I/O operations and their impact on application responsiveness
-   - Best practices and considerations for optimizing prallel execution
+   - Best practices and considerations for optimizing parallel execution
 
 4. **Async/await pattern**:
    - Deep dive into the `async`/`await` keywords and their significance
