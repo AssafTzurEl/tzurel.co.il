@@ -475,7 +475,7 @@ h4,
 h5,
 h6 {
   font-size: inherit;
-  font-weight: inherit;
+  font-weight: bold;
 }
 
 /**
@@ -33565,6 +33565,7 @@ video {
 }
 
 .leading-12 {
+  font-weight: bold;
   line-height: 3rem;
 }
 
@@ -50916,7 +50917,7 @@ html:not(.dark) svg.lighttoggle {
 
 .content h2 {
   margin-top: 1.5rem;
-  font-size: 1.25rem;
+  font-size: 1.4rem;
   line-height: 1.75rem;
 }
 
